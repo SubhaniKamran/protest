@@ -45,10 +45,10 @@
     "static/media/video.png": "/protest/static/media/video.900fc3f0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0030bab8.js",
-    "static/css/2.e2e85d32.chunk.css",
-    "static/js/2.d2de8a15.chunk.js",
-    "static/css/main.e697e1cc.chunk.css",
-    "static/js/main.4180ee6e.chunk.js"
+    "/protest/static/js/runtime-main.0030bab8.js",
+    "/protest/static/css/2.e2e85d32.chunk.css",
+    "/protest/static/js/2.d2de8a15.chunk.js",
+    "/protest/static/css/main.e697e1cc.chunk.css",
+    "/protest/static/js/main.4180ee6e.chunk.js"
   ]
 }
